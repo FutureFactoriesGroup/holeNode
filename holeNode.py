@@ -1,10 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 
 # taken from
 # https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/
 
-#!/usr/bin/env python3
 # NeoPixel library strandtest example
 # Author: Tony DiCola (tony@tonydicola.com)
 #
